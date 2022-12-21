@@ -1,0 +1,9 @@
+
+Check
+ID-3  Name-banana  Price-2.43  Discount=true  Total=2.43
+ID-2  Name-lemon  Price-2.43  Discount=false  Total=12.15
+ID-5  Name-chocolate_milk  Price-5.45  Discount=true  Total=5.45
+Number of discounted purchases=2
+Total price=20.03
+Total price with discountCard=18.03
+Discount amount=2.00

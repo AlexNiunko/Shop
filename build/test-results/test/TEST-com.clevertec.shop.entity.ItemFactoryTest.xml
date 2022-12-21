@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clevertec.shop.entity.ItemFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-21T14:28:55" hostname="CFGPC" time="0.039">
+  <properties/>
+  <testcase name="produce()" classname="com.clevertec.shop.entity.ItemFactoryTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

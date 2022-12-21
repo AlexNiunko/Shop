@@ -1,0 +1,8 @@
+fruit 1 orange 5.12 true 5
+fruit 2 lemon 2.43 false 20
+fruit 3 banana 2.43 true 13
+fruit 4 pineapple 3.13 false 8
+dairy 5 chocolate_milk 5.45 true 8
+dairy 6 yogurt 0.43 true 7
+clothes 7 t_short 3.64 false 6
+clothes 8 jeans 6.12 false 6
